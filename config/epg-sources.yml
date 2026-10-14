@@ -112,3 +112,16 @@ sources:
     lang: pl
     countries: [PL]
     trust: 0.8
+
+  # --- US (livetvbuilder) --------------------------------------------------
+  # Built by the `livetvbuilder` workflow from its per-ZIP bundles and
+  # published to the state branch. Covers channels the guides above miss.
+  # Trust sits below the others so it only fills gaps. Removed when the source
+  # is unavailable, so this entry yields nothing that run.
+  - id: livetvbuilder
+    name: livetvbuilder (US bundles)
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/livetvbuilder.xml.gz
+    enabled: true
+    lang: en
+    countries: [US]
+    trust: 0.65

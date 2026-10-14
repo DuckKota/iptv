@@ -1,0 +1,84 @@
+name: livetvbuilder Source
+
+# Fetches the per-(ZIP, provider) livetvbuilder bundles, merges them into one
+# m3u + XMLTV, and publishes both to the `state` branch. Sync then consumes them
+# as a `sources.yml` m3u entry and an `epg-sources.yml` guide entry.
+#
+# livetvbuilder.replit.app is a third-party app we do not control, so it is a
+# best-effort source: if a run produces nothing usable, we REMOVE the artifacts
+# from `state` rather than leave stale streams/EPG behind. The rest of the
+# pipeline keeps working without them.
+
+on:
+  schedule:
+    # 04:00 and 16:00 UTC — ahead of the 06:15 and 18:15 syncs.
+    - cron: '0 4,16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: livetvbuilder
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # `--strict` makes the script exit non-zero when it produced too little
+      # data, so the outcome is captured below and stale artifacts can be
+      # dropped instead of silently kept.
+      - name: Build bundles
+        id: gen
+        continue-on-error: true
+        run: |
+          python3 scripts/build_livetvbuilder.py \
+            --m3u livetvbuilder.m3u \
+            --xml livetvbuilder.xml \
+            --strict
+
+      - name: Compress guide
+        if: steps.gen.outcome == 'success'
+        run: gzip -9 -c livetvbuilder.xml > livetvbuilder.xml.gz
+
+      - name: Publish to state branch
+        if: steps.gen.outcome == 'success'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          chmod +x scripts/publish-state.sh
+          ./scripts/publish-state.sh "livetvbuilder: $(date -u +%FT%TZ)" \
+            livetvbuilder.m3u:livetvbuilder.m3u \
+            livetvbuilder.xml.gz:livetvbuilder.xml.gz
+
+      - name: Drop stale artifacts
+        if: steps.gen.outcome != 'success'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          WORK="$(mktemp -d)"
+          if ! git clone --quiet --depth 1 --branch state \
+              "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$WORK" 2>/dev/null; then
+            echo "No state branch yet; nothing to drop"
+            exit 0
+          fi
+          cd "$WORK"
+          git rm -q --ignore-unmatch livetvbuilder.m3u livetvbuilder.xml.gz
+          if git diff --cached --quiet; then
+            echo "No stale artifacts to drop"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qm "livetvbuilder: drop stale artifacts (source unavailable)"
+          git push --quiet origin state
