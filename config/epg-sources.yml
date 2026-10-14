@@ -18,7 +18,7 @@ sources:
   # --- United States -------------------------------------------------------
   - id: tvtv-us
     name: tvtv.us (US / Canada listings)
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/tvtv-us.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/tvtv-us.xml.gz
     enabled: true
     lang: en
     countries: [US, CA]
@@ -29,7 +29,7 @@ sources:
   # --- Free ad-supported streaming ----------------------------------------
   - id: pluto-tv
     name: Pluto TV
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/pluto-tv.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/pluto-tv.xml.gz
     enabled: true
     lang: en
     countries: [US, GB, DE, ES, FR, IT, BR, MX, CA, AU]
@@ -37,7 +37,7 @@ sources:
 
   - id: plex-tv
     name: Plex live channels
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/plex-tv.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/plex-tv.xml.gz
     enabled: true
     lang: en
     countries: [US, GB, CA, AU]
@@ -73,7 +73,7 @@ sources:
   # --- Türkiye -------------------------------------------------------------
   - id: tvplus-com-tr
     name: TV+ (Türkiye)
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/tvplus-com-tr.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/tvplus-com-tr.xml.gz
     enabled: true
     lang: tr
     countries: [TR]
@@ -81,7 +81,7 @@ sources:
 
   - id: digiturk-com-tr
     name: Digiturk
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/digiturk-com-tr.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/digiturk-com-tr.xml.gz
     enabled: true
     lang: tr
     countries: [TR]
@@ -89,7 +89,7 @@ sources:
 
   - id: turksatkablo-com-tr
     name: Türksat Kablo
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/turksatkablo-com-tr.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/turksatkablo-com-tr.xml.gz
     enabled: true
     lang: tr
     countries: [TR]
@@ -98,7 +98,7 @@ sources:
   # --- Latin America / Spain ----------------------------------------------
   - id: mi-tv
     name: mi.tv (Spanish-language listings)
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/mi-tv.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/mi-tv.xml.gz
     enabled: true
     lang: es
     countries: [MX, AR, CL, CO, PE, VE, ES]
@@ -107,7 +107,7 @@ sources:
   # --- Poland --------------------------------------------------------------
   - id: programtv-onet-pl
     name: Onet Program TV
-    url: https://raw.githubusercontent.com/dearbulut/iptv/state/epg/programtv-onet-pl.xml.gz
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/epg/programtv-onet-pl.xml.gz
     enabled: true
     lang: pl
     countries: [PL]

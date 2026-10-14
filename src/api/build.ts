@@ -5,6 +5,7 @@
  * can be served by GitHub Pages / any CDN with no server and no rate limits.
  */
 
+import { readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { loadConfig, PATHS, publicUrl, type Settings } from '../core/config.js';
 import {
@@ -175,7 +176,18 @@ export async function buildApi(options: { clean?: boolean } = {}): Promise<ApiBu
   const healthDb = await loadHealthDb();
   attachHealth(dataset.channels, healthDb);
 
-  if (options.clean) await remove(PATHS.public);
+  if (options.clean) {
+    // Keep public/epg: the `epg` step writes the merged guide there and this
+    // function does not rebuild it. Wiping all of public/ is what made the
+    // published guide 404 on every run.
+    if (await exists(PATHS.public)) {
+      for (const entry of await readdir(PATHS.public)) {
+        const target = path.join(PATHS.public, entry);
+        if (target === PATHS.epg) continue;
+        await remove(target);
+      }
+    }
+  }
   await ensureDir(PATHS.api);
 
   let files = 0;
