@@ -25,9 +25,23 @@ sources:
   - id: discovered
     name: Auto-discovered streams
     type: m3u
-    url: https://raw.githubusercontent.com/dearbulut/iptv/main/config/discovered.m3u
+    url: https://raw.githubusercontent.com/DuckKota/iptv/main/config/discovered.m3u
     enabled: true
     trust: 0.35
+
+  # US streams merged from livetvbuilder's per-ZIP bundles by the
+  # `livetvbuilder` workflow, which publishes them to the state branch. Mostly
+  # iptv-org-derived plus platform-native feeds (LocalNow, Tubi, Samsung TV
+  # Plus, Pluto, Xumo). Trust is below curated lists so it only wins ties.
+  # If the source is unavailable the workflow removes the artifact, so this
+  # entry simply yields nothing that run.
+  - id: livetvbuilder
+    name: livetvbuilder (US, per-ZIP bundles)
+    type: m3u
+    url: https://raw.githubusercontent.com/DuckKota/iptv/state/livetvbuilder.m3u
+    enabled: true
+    trust: 0.5
+    country: US
 
   # --- Public broadcaster / free-to-air streams -----------------------------
   # These are official, publicly documented FAST feeds. Uncomment what you want.
