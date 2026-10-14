@@ -130,6 +130,16 @@ def base_id(tvg_id):
     return tvg_id.split("@", 1)[0]
 
 
+def base_extinf(extinf):
+    """Rewrite an #EXTINF line's tvg-id to its base form.
+
+    The m3u is emitted with base ids so it lines up 1:1 with the guide, which is
+    also base. That makes the published pair usable directly in a player, and the
+    fork's stream matcher (which strips '@' anyway) is unaffected.
+    """
+    return TVG_ID.sub(lambda m: 'tvg-id="%s"' % base_id(m.group(1)), extinf)
+
+
 def setup_logging(log_path):
     log.setLevel(logging.DEBUG)
     log.handlers.clear()
@@ -457,7 +467,7 @@ def build(zips, workers, m3u_path, xml_path, providers, rounds=3,
         with open(m3u_tmp, "w", encoding="utf-8", newline="\n") as out:
             out.write("#EXTM3U\n")
             for extinf, stream in ordered:
-                out.write(extinf + "\n")
+                out.write(base_extinf(extinf) + "\n")
                 out.write(stream + "\n")
 
         kept_channels = 0
