@@ -79,6 +79,8 @@ https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America North" group-title="Mexico" nexus-source="iptv-org-index" nexus-confidence="0.98",Disney Channel Latin America North
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America South" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",Disney Channel Latin America South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV WMBC-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Estrella TV WMBC-TV
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy Brazil" group-title="Brazil" nexus-source="iptv-org-index" nexus-confidence="0.98",FailArmy Brazil
@@ -127,6 +129,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Spanish" group-title="Spain" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24 Spanish
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere CA" group-title="Canada" nexus-source="iptv-org-index" nexus-confidence="0.98",MovieSphere CA
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime LATAM" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",NatureTime LATAM
