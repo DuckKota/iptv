@@ -11,7 +11,7 @@ name: EPG Grab
 on:
   schedule:
     # 01:00 UTC — finishes well before the 06:15 sync picks the results up.
-    - cron: '0 1 * * *'
+    - cron: '1 1 * * *'
   workflow_dispatch:
     inputs:
       sites:

@@ -13,7 +13,7 @@ name: Discover Streams
 on:
   schedule:
     # 02:00 UTC daily, between the EPG grab and the morning sync.
-    - cron: '0 2 * * *'
+    - cron: '1 2 * * *'
   workflow_dispatch:
     inputs:
       max_probes:

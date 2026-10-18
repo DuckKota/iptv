@@ -7,7 +7,7 @@ name: Sync & Deploy
 on:
   schedule:
     # 00:15, 06:15, 12:15 and 18:15 UTC.
-    - cron: '15 0,6,12,18 * * *'
+    - cron: '16 0,6,12,18 * * *'
   workflow_dispatch:
     inputs:
       skip_epg:

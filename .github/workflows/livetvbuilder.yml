@@ -12,7 +12,7 @@ name: livetvbuilder Source
 on:
   schedule:
     # 04:00 and 16:00 UTC — ahead of the 06:15 and 18:15 syncs.
-    - cron: '0 4,16 * * *'
+    - cron: '1 4,16 * * *'
   workflow_dispatch:
 
 permissions:
