@@ -11,9 +11,9 @@ name: Discover Streams
 # between a curated index and an unattended scraper.
 
 on:
-  schedule:
-    # 02:00 UTC daily, between the EPG grab and the morning sync.
-    - cron: '1 2 * * *'
+  # Deliberately no `schedule:` here: GitHub's cron trigger stopped firing for
+  # this account on 2026-10-14. An external scheduler dispatches this workflow
+  # instead — see docs/AUTOMATION.md.
   workflow_dispatch:
     inputs:
       max_probes:

@@ -5,9 +5,9 @@ name: Sync & Deploy
 # a deploy.
 
 on:
-  schedule:
-    # 00:15, 06:15, 12:15 and 18:15 UTC.
-    - cron: '16 0,6,12,18 * * *'
+  # Deliberately no `schedule:` here: GitHub's cron trigger stopped firing for
+  # this account on 2026-10-14. An external scheduler dispatches this workflow
+  # instead — see docs/AUTOMATION.md.
   workflow_dispatch:
     inputs:
       skip_epg:

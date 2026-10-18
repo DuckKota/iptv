@@ -10,9 +10,9 @@ name: livetvbuilder Source
 # pipeline keeps working without them.
 
 on:
-  schedule:
-    # 04:00 and 16:00 UTC — ahead of the 06:15 and 18:15 syncs.
-    - cron: '1 4,16 * * *'
+  # Deliberately no `schedule:` here: GitHub's cron trigger stopped firing for
+  # this account on 2026-10-14. An external scheduler dispatches this workflow
+  # instead — see docs/AUTOMATION.md.
   workflow_dispatch:
 
 permissions:

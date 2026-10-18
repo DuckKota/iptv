@@ -7,13 +7,50 @@ normal day.
 
 | Time | Workflow | What happens |
 | --- | --- | --- |
+| 00:15 / 06:15 / 12:15 / 18:15 | **Sync & Deploy** | Re-reads upstream + all sources, rebuilds the API, playlists, guide and site, deploys to Pages |
 | 01:00 | **EPG Grab** | Scrapes each site in `config/epg-grab.yml`, one job per site, publishes XMLTV to the `state` branch |
 | 02:00 | **Discover Streams** | Scans configured playlists for streams we lack, probes each, commits the survivors to `config/discovered.m3u` |
-| 03:00 | **Health Scan** | Probes every stream in 6 parallel shards, updates rolling scores, retires dead links |
-| 00:15 / 06:15 / 12:15 / 18:15 | **Sync & Deploy** | Re-reads upstream + all sources, rebuilds the API, playlists, guide and site, deploys to Pages |
-| 15:00 | **Health Scan** | Second pass |
+| 03:00 / 15:00 | **Health Scan** | Probes every stream in 6 parallel shards, updates rolling scores, retires dead links |
+| 04:00 / 16:00 | **livetvbuilder Source** | Fetches the third-party bundles, merges them, publishes m3u + XMLTV to the `state` branch |
 
 Plus **CI** on every push and pull request, and **Dependabot** monthly.
+
+## Where the schedule comes from
+
+Not from GitHub. The workflows have no `schedule:` trigger on purpose: from
+2026-10-14 GitHub's cron stopped delivering runs for this account entirely.
+`workflow_dispatch` kept working, and a throwaway repository with a `*/5` cron
+never received a single schedule event, so the fault is account-level, not in
+these files. GitHub Support has to clear it; nothing in the repository can.
+
+Until then, [cron-job.org](https://cron-job.org) dispatches each workflow over
+the API at the times above. Five jobs, all UTC:
+
+| Job | Workflow | Times |
+| --- | --- | --- |
+| `IPTV sync` | `sync.yml` | 00:15, 06:15, 12:15, 18:15 |
+| `IPTV epg` | `epg.yml` | 01:00 |
+| `IPTV discover` | `discover.yml` | 02:00 |
+| `IPTV health` | `health.yml` | 03:00, 15:00 |
+| `IPTV livetvbuilder` | `livetvbuilder.yml` | 04:00, 16:00 |
+
+Each job POSTs `{"ref":"main"}` to
+`https://api.github.com/repos/DuckKota/iptv/actions/workflows/<file>/dispatches`
+with a GitHub token in the `Authorization` header. **That token is the weak
+point:** when it expires, every job starts failing (cron-job.org emails on the
+first failure). Rotate it by editing the header on all five jobs:
+
+1. Create a fine-grained token scoped to this repository with **Actions: read
+   and write**. Give it the longest expiry available, not the default 30 days.
+2. For each job in the cron-job.org console, replace the `Authorization` header
+   value with `Bearer <new token>`.
+
+If GitHub restores schedule delivery, delete the cron-job.org jobs and put the
+`on: schedule:` blocks back — otherwise every slot runs twice.
+
+The timetable is a timetable, not a dependency graph: sync at 06:15 assumes the
+04:00 livetvbuilder run finished (it takes ~45 minutes). If a run overruns, the
+next sync publishes whatever state existed when it started.
 
 ## What updates without you
 

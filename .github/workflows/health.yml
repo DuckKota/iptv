@@ -5,9 +5,9 @@ name: Health Scan
 # it up and folds the scores into the API.
 
 on:
-  schedule:
-    # 03:00 and 15:00 UTC.
-    - cron: '1 3,15 * * *'
+  # Deliberately no `schedule:` here: GitHub's cron trigger stopped firing for
+  # this account on 2026-10-14. An external scheduler dispatches this workflow
+  # instead — see docs/AUTOMATION.md.
   workflow_dispatch:
     inputs:
       limit:

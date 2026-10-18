@@ -9,9 +9,9 @@ name: EPG Grab
 # the whole guide down with it.
 
 on:
-  schedule:
-    # 01:00 UTC — finishes well before the 06:15 sync picks the results up.
-    - cron: '1 1 * * *'
+  # Deliberately no `schedule:` here: GitHub's cron trigger stopped firing for
+  # this account on 2026-10-14. An external scheduler dispatches this workflow
+  # instead — see docs/AUTOMATION.md.
   workflow_dispatch:
     inputs:
       sites:
