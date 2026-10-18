@@ -15,6 +15,30 @@ normal day.
 
 Plus **CI** on every push and pull request, and **Dependabot** monthly.
 
+That table is flat, but the day runs in cycles: Sync is always the **consumer**,
+and every other workflow writes something for the next Sync to read.
+
+```text
+00:15  Sync            ← health 15:00 + livetvbuilder 16:00 (previous day)
+01:00  EPG Grab          → state: epg/*.xml.gz
+02:00  Discover          → main: config/discovered.m3u
+03:00  Health Scan       → state: health.json
+04:00  livetvbuilder     → state: m3u + XMLTV
+06:15  Sync            ← everything above; this is the full rebuild
+12:15  Sync            ← upstream only, nothing new since 06:15
+15:00  Health Scan       → state: health.json
+16:00  livetvbuilder     → state: m3u + XMLTV
+18:15  Sync            ← health 15:00 + livetvbuilder 16:00
+```
+
+So each of the four daily syncs closes the cycle started before it; the 06:15
+one is the only one that sees a fresh guide, fresh discovery and fresh health
+together. The discovery commit does not trigger a Sync of its own — commits made
+with `GITHUB_TOKEN` never trigger workflows — so it waits for the next Sync.
+
+This is a timetable, not a dependency graph. If EPG overruns its 01:00 start,
+the 06:15 Sync publishes the guide that exists at 06:15, complete or not.
+
 ## Where the schedule comes from
 
 Not from GitHub. The workflows have no `schedule:` trigger on purpose: from
