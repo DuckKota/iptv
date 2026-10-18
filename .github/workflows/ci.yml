@@ -4,6 +4,10 @@ on:
   push:
     branches: [main]
   pull_request:
+  # TEMPORARY probe: proves whether `schedule` events reach this repo at all.
+  # Remove this block (and the smoke-job `if:` below) once confirmed.
+  schedule:
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: read
@@ -41,6 +45,8 @@ jobs:
 
   smoke:
     name: Pipeline smoke test
+    # Scheduled runs are the cron probe; keep them to the fast test job.
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
