@@ -51,6 +51,8 @@ https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_a
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV Indo-China" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Angel TV Indo-China
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America South" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",AXN Latin America South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth Hungary" group-title="Hungary" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC Earth Hungary
 http://88.212.15.17/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News Latin America" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC News Latin America
