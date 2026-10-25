@@ -59,6 +59,8 @@ http://88.212.15.17/live/bbce_hun/index.m3u8
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News South Asia" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC News South Asia
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News Asia Pacific" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC News Asia Pacific
+http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Australia" group-title="Australia" nexus-source="iptv-org-index" nexus-confidence="0.98",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Live Event" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Bloomberg TV Live Event
