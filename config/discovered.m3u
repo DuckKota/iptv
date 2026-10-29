@@ -175,6 +175,8 @@ https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WJAR" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WJAR
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WKYC" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WKYC
+https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2 KPVM-LD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Newsmax 2 KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS WNJT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",PBS WNJT
