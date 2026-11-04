@@ -1,9 +1,9 @@
 # Playlists
 
 > Generated automatically — do not edit by hand.
-> Last updated **2026-11-03 18:16 UTC**.
+> Last updated **2026-11-04 00:15 UTC**.
 
-10,368 channels with a working stream, out of 30,916 indexed. 13,137 streams responded on the last scan.
+10,363 channels with a working stream, out of 30,916 indexed. 13,137 streams responded on the last scan.
 
 ## Main playlists
 
@@ -38,8 +38,8 @@ One playlist per country, best stream per channel.
 
 | Country | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| 🇺🇸 United States | 1,682 | 1,682 | `https://DuckKota.github.io/iptv/playlists/country/us.m3u` |
-| 🇮🇳 India | 789 | 789 | `https://DuckKota.github.io/iptv/playlists/country/in.m3u` |
+| 🇺🇸 United States | 1,681 | 1,681 | `https://DuckKota.github.io/iptv/playlists/country/us.m3u` |
+| 🇮🇳 India | 787 | 787 | `https://DuckKota.github.io/iptv/playlists/country/in.m3u` |
 | 🇷🇺 Russia | 460 | 460 | `https://DuckKota.github.io/iptv/playlists/country/ru.m3u` |
 | 🇩🇪 Germany | 376 | 376 | `https://DuckKota.github.io/iptv/playlists/country/de.m3u` |
 | 🇧🇷 Brazil | 275 | 275 | `https://DuckKota.github.io/iptv/playlists/country/br.m3u` |
@@ -50,15 +50,15 @@ One playlist per country, best stream per channel.
 | 🇨🇱 Chile | 197 | 197 | `https://DuckKota.github.io/iptv/playlists/country/cl.m3u` |
 | 🇸🇪 Sweden | 197 | 197 | `https://DuckKota.github.io/iptv/playlists/country/se.m3u` |
 | 🇹🇷 Turkiye | 194 | 194 | `https://DuckKota.github.io/iptv/playlists/country/tr.m3u` |
-| 🇦🇷 Argentina | 183 | 183 | `https://DuckKota.github.io/iptv/playlists/country/ar.m3u` |
 | 🇺🇦 Ukraine | 182 | 182 | `https://DuckKota.github.io/iptv/playlists/country/ua.m3u` |
 | 🇳🇱 Netherlands | 182 | 182 | `https://DuckKota.github.io/iptv/playlists/country/nl.m3u` |
-| 🇫🇷 France | 179 | 179 | `https://DuckKota.github.io/iptv/playlists/country/fr.m3u` |
+| 🇦🇷 Argentina | 182 | 182 | `https://DuckKota.github.io/iptv/playlists/country/ar.m3u` |
+| 🇫🇷 France | 180 | 180 | `https://DuckKota.github.io/iptv/playlists/country/fr.m3u` |
 | 🇲🇽 Mexico | 176 | 176 | `https://DuckKota.github.io/iptv/playlists/country/mx.m3u` |
 | 🇵🇪 Peru | 172 | 172 | `https://DuckKota.github.io/iptv/playlists/country/pe.m3u` |
 | 🇵🇱 Poland | 164 | 164 | `https://DuckKota.github.io/iptv/playlists/country/pl.m3u` |
-| 🇷🇴 Romania | 162 | 162 | `https://DuckKota.github.io/iptv/playlists/country/ro.m3u` |
 | 🇨🇳 China | 160 | 160 | `https://DuckKota.github.io/iptv/playlists/country/cn.m3u` |
+| 🇷🇴 Romania | 158 | 158 | `https://DuckKota.github.io/iptv/playlists/country/ro.m3u` |
 | 🇭🇺 Hungary | 146 | 146 | `https://DuckKota.github.io/iptv/playlists/country/hu.m3u` |
 | 🇨🇦 Canada | 132 | 132 | `https://DuckKota.github.io/iptv/playlists/country/ca.m3u` |
 | 🇮🇩 Indonesia | 129 | 129 | `https://DuckKota.github.io/iptv/playlists/country/id.m3u` |
@@ -74,10 +74,10 @@ One playlist per country, best stream per channel.
 | 🇬🇷 Greece | 70 | 70 | `https://DuckKota.github.io/iptv/playlists/country/gr.m3u` |
 | 🇨🇷 Costa Rica | 69 | 69 | `https://DuckKota.github.io/iptv/playlists/country/cr.m3u` |
 | 🇹🇭 Thailand | 68 | 68 | `https://DuckKota.github.io/iptv/playlists/country/th.m3u` |
+| 🇧🇬 Bulgaria | 66 | 66 | `https://DuckKota.github.io/iptv/playlists/country/bg.m3u` |
 | 🇵🇾 Paraguay | 66 | 66 | `https://DuckKota.github.io/iptv/playlists/country/py.m3u` |
 | 🇧🇴 Bolivia | 66 | 66 | `https://DuckKota.github.io/iptv/playlists/country/bo.m3u` |
 | 🇬🇹 Guatemala | 66 | 66 | `https://DuckKota.github.io/iptv/playlists/country/gt.m3u` |
-| 🇧🇬 Bulgaria | 65 | 65 | `https://DuckKota.github.io/iptv/playlists/country/bg.m3u` |
 | 🇵🇹 Portugal | 58 | 58 | `https://DuckKota.github.io/iptv/playlists/country/pt.m3u` |
 | 🇸🇰 Slovakia | 57 | 57 | `https://DuckKota.github.io/iptv/playlists/country/sk.m3u` |
 | 🇮🇶 Iraq | 57 | 57 | `https://DuckKota.github.io/iptv/playlists/country/iq.m3u` |
@@ -97,7 +97,7 @@ One playlist per country, best stream per channel.
 | 🇱🇧 Lebanon | 31 | 31 | `https://DuckKota.github.io/iptv/playlists/country/lb.m3u` |
 | 🇹🇼 Taiwan | 31 | 31 | `https://DuckKota.github.io/iptv/playlists/country/tw.m3u` |
 | 🇨🇭 Switzerland | 30 | 30 | `https://DuckKota.github.io/iptv/playlists/country/ch.m3u` |
-| 🇲🇰 North Macedonia | 28 | 28 | `https://DuckKota.github.io/iptv/playlists/country/mk.m3u` |
+| 🇲🇰 North Macedonia | 29 | 29 | `https://DuckKota.github.io/iptv/playlists/country/mk.m3u` |
 | 🇵🇷 Puerto Rico | 27 | 27 | `https://DuckKota.github.io/iptv/playlists/country/pr.m3u` |
 | 🇧🇩 Bangladesh | 26 | 26 | `https://DuckKota.github.io/iptv/playlists/country/bd.m3u` |
 | 🇸🇬 Singapore | 26 | 26 | `https://DuckKota.github.io/iptv/playlists/country/sg.m3u` |
@@ -230,13 +230,13 @@ One playlist per category — news, sports, movies, music and so on.
 
 | Category | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| General | 2,504 | 2,504 | `https://DuckKota.github.io/iptv/playlists/category/general.m3u` |
+| General | 2,506 | 2,506 | `https://DuckKota.github.io/iptv/playlists/category/general.m3u` |
 | News | 1,008 | 1,008 | `https://DuckKota.github.io/iptv/playlists/category/news.m3u` |
-| Entertainment | 801 | 801 | `https://DuckKota.github.io/iptv/playlists/category/entertainment.m3u` |
+| Entertainment | 799 | 799 | `https://DuckKota.github.io/iptv/playlists/category/entertainment.m3u` |
 | Religious | 774 | 774 | `https://DuckKota.github.io/iptv/playlists/category/religious.m3u` |
-| Music | 754 | 754 | `https://DuckKota.github.io/iptv/playlists/category/music.m3u` |
-| Movies | 624 | 624 | `https://DuckKota.github.io/iptv/playlists/category/movies.m3u` |
-| Sports | 430 | 430 | `https://DuckKota.github.io/iptv/playlists/category/sports.m3u` |
+| Music | 755 | 755 | `https://DuckKota.github.io/iptv/playlists/category/music.m3u` |
+| Movies | 621 | 621 | `https://DuckKota.github.io/iptv/playlists/category/movies.m3u` |
+| Sports | 427 | 427 | `https://DuckKota.github.io/iptv/playlists/category/sports.m3u` |
 | Series | 404 | 404 | `https://DuckKota.github.io/iptv/playlists/category/series.m3u` |
 | Kids | 367 | 367 | `https://DuckKota.github.io/iptv/playlists/category/kids.m3u` |
 | Documentary | 219 | 219 | `https://DuckKota.github.io/iptv/playlists/category/documentary.m3u` |
@@ -271,19 +271,19 @@ One playlist per broadcast language.
 
 | Language | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| English | 2,608 | 2,608 | `https://DuckKota.github.io/iptv/playlists/language/eng.m3u` |
-| Spanish | 2,355 | 2,355 | `https://DuckKota.github.io/iptv/playlists/language/spa.m3u` |
+| English | 2,604 | 2,604 | `https://DuckKota.github.io/iptv/playlists/language/eng.m3u` |
+| Spanish | 2,354 | 2,354 | `https://DuckKota.github.io/iptv/playlists/language/spa.m3u` |
 | Russian | 595 | 595 | `https://DuckKota.github.io/iptv/playlists/language/rus.m3u` |
 | Portuguese | 503 | 503 | `https://DuckKota.github.io/iptv/playlists/language/por.m3u` |
-| French | 456 | 456 | `https://DuckKota.github.io/iptv/playlists/language/fra.m3u` |
-| Hindi | 349 | 349 | `https://DuckKota.github.io/iptv/playlists/language/hin.m3u` |
+| French | 457 | 457 | `https://DuckKota.github.io/iptv/playlists/language/fra.m3u` |
 | Arabic | 348 | 348 | `https://DuckKota.github.io/iptv/playlists/language/ara.m3u` |
+| Hindi | 347 | 347 | `https://DuckKota.github.io/iptv/playlists/language/hin.m3u` |
 | Italian | 336 | 336 | `https://DuckKota.github.io/iptv/playlists/language/ita.m3u` |
 | German | 317 | 317 | `https://DuckKota.github.io/iptv/playlists/language/deu.m3u` |
 | Chinese | 226 | 226 | `https://DuckKota.github.io/iptv/playlists/language/zho.m3u` |
 | Dutch | 209 | 209 | `https://DuckKota.github.io/iptv/playlists/language/nld.m3u` |
 | Persian | 207 | 207 | `https://DuckKota.github.io/iptv/playlists/language/fas.m3u` |
-| Romanian | 193 | 193 | `https://DuckKota.github.io/iptv/playlists/language/ron.m3u` |
+| Romanian | 190 | 190 | `https://DuckKota.github.io/iptv/playlists/language/ron.m3u` |
 | Ukrainian | 182 | 182 | `https://DuckKota.github.io/iptv/playlists/language/ukr.m3u` |
 | Turkish | 175 | 175 | `https://DuckKota.github.io/iptv/playlists/language/tur.m3u` |
 | Hungarian | 164 | 164 | `https://DuckKota.github.io/iptv/playlists/language/hun.m3u` |
@@ -291,14 +291,14 @@ One playlist per broadcast language.
 | Danish | 158 | 158 | `https://DuckKota.github.io/iptv/playlists/language/dan.m3u` |
 | Swedish | 138 | 138 | `https://DuckKota.github.io/iptv/playlists/language/swe.m3u` |
 | Indonesian | 135 | 135 | `https://DuckKota.github.io/iptv/playlists/language/ind.m3u` |
-| Tamil | 121 | 121 | `https://DuckKota.github.io/iptv/playlists/language/tam.m3u` |
+| Tamil | 120 | 120 | `https://DuckKota.github.io/iptv/playlists/language/tam.m3u` |
 | Norwegian | 119 | 119 | `https://DuckKota.github.io/iptv/playlists/language/nor.m3u` |
 | Vietnamese | 114 | 114 | `https://DuckKota.github.io/iptv/playlists/language/vie.m3u` |
 | Bengali | 100 | 100 | `https://DuckKota.github.io/iptv/playlists/language/ben.m3u` |
 | Greek | 92 | 92 | `https://DuckKota.github.io/iptv/playlists/language/ell.m3u` |
 | Czech | 87 | 87 | `https://DuckKota.github.io/iptv/playlists/language/ces.m3u` |
+| Bulgarian | 85 | 85 | `https://DuckKota.github.io/iptv/playlists/language/bul.m3u` |
 | Urdu | 85 | 85 | `https://DuckKota.github.io/iptv/playlists/language/urd.m3u` |
-| Bulgarian | 84 | 84 | `https://DuckKota.github.io/iptv/playlists/language/bul.m3u` |
 | Telugu | 82 | 82 | `https://DuckKota.github.io/iptv/playlists/language/tel.m3u` |
 | Korean | 82 | 82 | `https://DuckKota.github.io/iptv/playlists/language/kor.m3u` |
 | Finnish | 79 | 79 | `https://DuckKota.github.io/iptv/playlists/language/fin.m3u` |
@@ -317,7 +317,7 @@ One playlist per broadcast language.
 | Hebrew | 31 | 31 | `https://DuckKota.github.io/iptv/playlists/language/heb.m3u` |
 | Marathi | 27 | 27 | `https://DuckKota.github.io/iptv/playlists/language/mar.m3u` |
 | Croatian | 27 | 27 | `https://DuckKota.github.io/iptv/playlists/language/hrv.m3u` |
-| Macedonian | 25 | 25 | `https://DuckKota.github.io/iptv/playlists/language/mkd.m3u` |
+| Macedonian | 26 | 26 | `https://DuckKota.github.io/iptv/playlists/language/mkd.m3u` |
 | Slovenian | 25 | 25 | `https://DuckKota.github.io/iptv/playlists/language/slv.m3u` |
 | Swahili | 24 | 24 | `https://DuckKota.github.io/iptv/playlists/language/swa.m3u` |
 | Lithuanian | 23 | 23 | `https://DuckKota.github.io/iptv/playlists/language/lit.m3u` |
