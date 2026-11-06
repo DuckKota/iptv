@@ -71,6 +71,8 @@ https://bloomberg.com/media-manifest/streams/us-event.m3u8
 https://bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Europe" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV EMEA Live Event" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Bloomberg TV EMEA Live Event
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS KMTV-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS KMTV-TV
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WTVR-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WTVR-TV
@@ -139,6 +141,8 @@ https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere CA" group-title="Canada" nexus-source="iptv-org-index" nexus-confidence="0.98",MovieSphere CA
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime LATAM" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",NatureTime LATAM
@@ -179,6 +183,8 @@ https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2 KPVM-LD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Newsmax 2 KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV (Russia)" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",NTV (Russia)
+http://31.148.5.241/kanal_4/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS WNJT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",PBS WNJT
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS KETS" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",PBS KETS
@@ -199,6 +205,10 @@ https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective Sweden" group-title="Sweden" nexus-source="iptv-org-index" nexus-confidence="0.98",The Pet Collective Sweden
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",The Pet Collective UK
+https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",The Pet Collective
+https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars SD" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Sport Stars SD
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Southern Africa" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban Southern Africa
@@ -253,6 +263,8 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision KMEX-DT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Univision KMEX-DT
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision WLTV-DT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Univision WLTV-DT
+http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen Wuppertal" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",WDR Fernsehen Wuppertal
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen Siegen" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",WDR Fernsehen Siegen
