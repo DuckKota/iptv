@@ -93,6 +93,10 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV WMBC-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Estrella TV WMBC-TV
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 Serbia" group-title="Serbia" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 1 Serbia
+http://87.238.211.217:2209/stream/99/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 Germany" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 2 Germany
+http://46.244.99.71:8181/stream/74/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy Brazil" group-title="Brazil" nexus-source="iptv-org-index" nexus-confidence="0.98",FailArmy Brazil
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy Italy" group-title="Italy" nexus-source="iptv-org-index" nexus-confidence="0.98",FailArmy Italy
