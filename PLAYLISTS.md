@@ -1,9 +1,9 @@
 # Playlists
 
 > Generated automatically — do not edit by hand.
-> Last updated **2026-11-09 00:15 UTC**.
+> Last updated **2026-11-09 06:15 UTC**.
 
-10,413 channels with a working stream, out of 30,968 indexed. 13,340 streams responded on the last scan.
+10,413 channels with a working stream, out of 30,973 indexed. 13,092 streams responded on the last scan.
 
 ## Main playlists
 
@@ -267,7 +267,7 @@ One playlist per category — news, sports, movies, music and so on.
 One playlist per broadcast language.
 
 <details>
-<summary><b>218 playlists</b> — click to expand</summary>
+<summary><b>219 playlists</b> — click to expand</summary>
 
 | Language | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
@@ -414,6 +414,7 @@ One playlist per broadcast language.
 | Tigrinya | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/tir.m3u` |
 | Tigre | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/tig.m3u` |
 | Guadeloupean Creole French | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/gcf.m3u` |
+| Sora | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/srb.m3u` |
 | Tatar | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/tat.m3u` |
 | Chhattisgarhi | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/hne.m3u` |
 | Mesopotamian Arabic | 1 | 1 | `https://DuckKota.github.io/iptv/playlists/language/acm.m3u` |
