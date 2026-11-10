@@ -73,6 +73,12 @@ https://bloomberg.com/media-manifest/streams/politics.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV EMEA Live Event" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Bloomberg TV EMEA Live Event
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="Canal10Goya.ar" tvg-name="Canal 10 Goya" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",Canal 10 Goya
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
+#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-name="Canal 20 Villa Maria" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",Canal 20 Villa Maria
+https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3Arroyito.ar" tvg-name="Canal 3 Arroyito" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",Canal 3 Arroyito
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS KMTV-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS KMTV-TV
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WTVR-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WTVR-TV
@@ -85,6 +91,10 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WDEF-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WDEF-TV
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+#EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" group-title="Spain" nexus-source="iptv-org-index" nexus-confidence="0.98",DAZN F1
+https://tvorb.net/ZTV/6918-live.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel (Romania)" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Discovery Channel (Romania)
+http://92.180.26.103:80/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America Mexico" group-title="Mexico" nexus-source="iptv-org-index" nexus-confidence="0.98",Disney Channel Latin America Mexico
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America North" group-title="Mexico" nexus-source="iptv-org-index" nexus-confidence="0.98",Disney Channel Latin America North
@@ -147,6 +157,12 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" group-title="Peru" nexus-source="iptv-org-index" nexus-confidence="0.98",La Tremenda TV
+https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Magnificent Movies Network
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
+#EXTINF:-1 tvg-id="MireasaPlus.ro" tvg-name="Mireasa+" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Mireasa+
+https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere CA" group-title="Canada" nexus-source="iptv-org-index" nexus-confidence="0.98",MovieSphere CA
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime LATAM" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",NatureTime LATAM
@@ -191,6 +207,8 @@ https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 http://185.19.191.171:8090/NRK1/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV (Russia)" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",NTV (Russia)
 http://31.148.5.241/kanal_4/index.m3u8
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",OnTV4U
+https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS WNJT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",PBS WNJT
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS KETS" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",PBS KETS
@@ -201,6 +219,8 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",Red Bull TV UK
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra HD" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Sport Extra HD
+http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo WTMO-CD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Telemundo WTMO-CD
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective India" group-title="India" nexus-source="iptv-org-index" nexus-confidence="0.98",The Pet Collective India
@@ -215,6 +235,10 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",The Pet Collective
 https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Timeless TV
+https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium HD" group-title="Chile" nexus-source="iptv-org-index" nexus-confidence="0.98",TNT Sports Premium HD
+http://205.235.6.29:8000/play/a104/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars SD" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Sport Stars SD
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Southern Africa" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban Southern Africa
@@ -271,6 +295,8 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision WLTV-DT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Univision WLTV-DT
 http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen Wuppertal" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",WDR Fernsehen Wuppertal
 https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen Siegen" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",WDR Fernsehen Siegen
