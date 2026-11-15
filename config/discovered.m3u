@@ -109,8 +109,14 @@ http://87.238.211.217:2209/stream/99/index.m3u8
 http://89.44.231.73:7000/eurosport
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 Portugal" group-title="Portugal" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 1 Portugal
 http://185.228.163.146:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 Italy" group-title="Italy" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 1 Italy
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 Germany" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 2 Germany
 http://46.244.99.71:8181/stream/74/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 2 UK
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 Romania" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 2 Romania
+http://89.44.231.73:7000/eurosport2
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy Brazil" group-title="Brazil" nexus-source="iptv-org-index" nexus-confidence="0.98",FailArmy Brazil
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy Italy" group-title="Italy" nexus-source="iptv-org-index" nexus-confidence="0.98",FailArmy Italy
