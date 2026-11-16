@@ -121,6 +121,8 @@ http://89.44.231.73:7000/eurosport2
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy Italy" group-title="Italy" nexus-source="iptv-org-index" nexus-confidence="0.98",FailArmy Italy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FastSports.pk" tvg-name="Fast Sports" group-title="Armenia" nexus-source="iptv-org-index" nexus-confidence="0.97",Fast Sports
+http://s7.merlive.am/Fastsports/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+ Hispanic America" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",FIFA+ Hispanic America
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+ French" group-title="Belgium" nexus-source="iptv-org-index" nexus-confidence="0.98",FIFA+ French
