@@ -35,6 +35,8 @@ https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WBBJ-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WBBJ-TV
 https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC
+https://cache0.wonvt.st/live/01qdodh1lghijw0ls22qa/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera English HD" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Al Jazeera English HD
 http://stream.mcquack.net/131/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV Portuguese" group-title="Brazil" nexus-source="iptv-org-index" nexus-confidence="0.98",Angel TV Portuguese
@@ -227,6 +229,8 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS WJXT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",PBS WJXT
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 Trentino-Alto Adige Trento" group-title="Italy" nexus-source="iptv-org-index" nexus-confidence="0.98",Rai 3 Trentino-Alto Adige Trento
+https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV US" group-title="Canada" nexus-source="iptv-org-index" nexus-confidence="0.98",Red Bull TV US
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",Red Bull TV UK
