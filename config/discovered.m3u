@@ -37,6 +37,24 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481
 https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC
 https://cache0.wonvt.st/live/01qdodh1lghijw0ls22qa/master.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WBAY-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WBAY-TV
+https://amg00312-amg00312c54-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c54-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WDIO-DT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WDIO-DT
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WCPO-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WCPO-TV
+https://amg01438-amg01438c29-vizio-us-10903.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WEWS-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WEWS-TV
+https://amg01438-amg01438c1-vizio-us-10865.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WMAR-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WMAR-TV
+https://amg01438-amg01438c22-vizio-us-10908.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WTXL-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WTXL-TV
+https://amg01438-amg01438c38-vizio-us-10917.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WWSB" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WWSB
+https://amg00312-amg00312c30-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c30-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WSB-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WSB-TV
+https://amg00327-coxmediagroup-wsbbreaking-vizious-lg4u0.amagi.tv/playlist/amg00327-coxmediagroup-wsbbreaking-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WSOC-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WSOC-TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera English HD" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Al Jazeera English HD
 http://stream.mcquack.net/131/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV Portuguese" group-title="Brazil" nexus-source="iptv-org-index" nexus-confidence="0.98",Angel TV Portuguese
@@ -93,6 +111,28 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WDEF-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WDEF-TV
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WDBJ" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WDBJ
+https://amg00312-amg00312c40-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c40-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WANF" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WANF
+https://amg00312-amg00312c28-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c28-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WFSB" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WFSB
+https://amg00312-amg00312c55-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c55-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS KTVQ" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS KTVQ
+https://amg01438-amg01438c27-vizio-us-10895.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WJAX-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WJAX-TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WKYT-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WKYT-TV
+https://amg00312-amg00312c38-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c38-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WVLT-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WVLT-TV
+https://amg00312-amg00312c37-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c37-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WTKR" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WTKR
+https://amg01438-amg01438c24-vizio-us-10860.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WTVR-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WTVR-TV
+https://amg01438-amg01438c39-vizio-us-10910.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS WHIO-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",CBS WHIO-TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One (Russia) Europa" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Channel One (Russia) Europa
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" group-title="Spain" nexus-source="iptv-org-index" nexus-confidence="0.98",DAZN F1
 https://tvorb.net/ZTV/6918-live.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel (Romania)" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Discovery Channel (Romania)
@@ -165,6 +205,36 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WFXT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WFXT
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) KSTU" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) KSTU
+https://amg01438-amg01438c10-vizio-us-10896.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) KVVU-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) KVVU-TV
+https://amg00312-amg00312c57-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c57-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) KTTV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) KTTV
+https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WALA-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WALA-TV
+https://amg00312-amg00312c36-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c36-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WBRC" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WBRC
+https://amg00312-amg00312c32-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c32-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WJBK" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WJBK
+https://amg00488-foxdigital-fox2detroitwjbk-vizious-v1gln.amagi.tv/playlist/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WHNS" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WHNS
+https://amg00312-amg00312c31-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c31-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WTVT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WTVT
+https://amg00488-foxdigital-fox13tampabaywtvt-vizious-xr5q9.amagi.tv/playlist/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) KTBC" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) KTBC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WXIX-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WXIX-TV
+https://amg00312-amg00312c56-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c56-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WAGA-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WAGA-TV
+https://amg00488-foxdigital-fox5atlantawaga-vizious-3m41r.amagi.tv/playlist/amg00488-foxdigital-fox5atlantawaga-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WXMI" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WXMI
+https://amg01438-amg01438c37-vizio-us-10912.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WVUE-DT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WVUE-DT
+https://amg00312-amg00312c34-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c34-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WTTG" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WTTG
+https://amg00488-foxdigital-fox5dcwttg-vizious-c0eh0.amagi.tv/playlist/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WTXF-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WTXF-TV
+https://amg00488-foxdigital-fox29philadelphiawtx-vizious-x0v1b.amagi.tv/playlist/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Spanish" group-title="Spain" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24 Spanish
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
@@ -173,6 +243,8 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" group-title="Peru" nexus-source="iptv-org-index" nexus-confidence="0.98",La Tremenda TV
 https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature Czechia" group-title="Czech Republic" nexus-source="iptv-org-index" nexus-confidence="0.98",Love Nature Czechia
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Magnificent Movies Network
 https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MireasaPlus.ro" tvg-name="Mireasa+" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Mireasa+
@@ -215,8 +287,28 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-on
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WKYC" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WKYC
 https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WBTS-CD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WBTS-CD
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC KXAS-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC KXAS-TV
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WGBA-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WGBA-TV
+https://amg01438-amg01438c31-vizio-us-10906.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC KTVH-DT" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC KTVH-DT
+https://amg01438-amg01438c26-vizio-us-10902.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WHEC-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WHEC-TV
+https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WMC-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WMC-TV
+https://amg00312-amg00312c58-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c58-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WSMV-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WSMV-TV
+https://amg00312-amg00312c45-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c45-amgplt0022/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WPTV-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WPTV-TV
+https://amg01438-amg01438c2-vizio-us-10862.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WTMJ-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",NBC WTMJ-TV
+https://amg01438-amg01438c40-vizio-us-10892.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2 KPVM-LD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Newsmax 2 KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",Nosey UK
+https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8
 #EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="Norway" nexus-source="iptv-org-index" nexus-confidence="0.98",NRK1
 http://185.19.191.171:8090/NRK1/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV (Russia)" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",NTV (Russia)
@@ -235,6 +327,26 @@ https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playli
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",Red Bull TV UK
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +1" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +1
+https://stream.smotrim.ru/hls2/russia1_plus1/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +2" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +2
+https://stream.smotrim.ru/hls2/russia1_plus2/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +3" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +3
+https://stream.smotrim.ru/hls2/russia1_plus3/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +4" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +4
+https://stream.smotrim.ru/hls2/russia1_plus4/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +6" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +6
+https://stream.smotrim.ru/hls2/russia1_plus6/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +5" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +5
+https://stream.smotrim.ru/hls2/russia1_plus5/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +7" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +7
+https://stream.smotrim.ru/hls2/russia1_plus7/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +8" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +8
+https://stream.smotrim.ru/hls2/russia1_plus8/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +9" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +9
+https://stream.smotrim.ru/hls2/russia1_plus9/playlist_5.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-K
+http://31.148.5.241/kanal_6/index.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra HD" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Sport Extra HD
 http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo WTMO-CD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Telemundo WTMO-CD
@@ -259,6 +371,14 @@ http://205.235.6.29:8000/play/a104/index.m3u8
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Southern Africa" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban HD" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban HD
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Africa Franco" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Caribbean And Indian Ocean" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban Caribbean And Indian Ocean
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban International HD" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Trace Urban International HD
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bali" group-title="Indonesia" nexus-source="iptv-org-index" nexus-confidence="0.98",TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bengkulu" group-title="Indonesia" nexus-source="iptv-org-index" nexus-confidence="0.98",TVRI Bengkulu
@@ -319,3 +439,5 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen Munster" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",WDR Fernsehen Munster
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour Germany" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",World Poker Tour Germany
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
