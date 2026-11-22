@@ -1,9 +1,9 @@
 # Playlists
 
 > Generated automatically — do not edit by hand.
-> Last updated **2026-11-22 00:15 UTC**.
+> Last updated **2026-11-22 06:15 UTC**.
 
-10,437 channels with a working stream, out of 31,096 indexed. 13,443 streams responded on the last scan.
+10,437 channels with a working stream, out of 31,110 indexed. 13,447 streams responded on the last scan.
 
 ## Main playlists
 
@@ -38,7 +38,7 @@ One playlist per country, best stream per channel.
 
 | Country | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| 🇺🇸 United States | 1,674 | 1,674 | `https://DuckKota.github.io/iptv/playlists/country/us.m3u` |
+| 🇺🇸 United States | 1,673 | 1,673 | `https://DuckKota.github.io/iptv/playlists/country/us.m3u` |
 | 🇮🇳 India | 819 | 819 | `https://DuckKota.github.io/iptv/playlists/country/in.m3u` |
 | 🇷🇺 Russia | 463 | 463 | `https://DuckKota.github.io/iptv/playlists/country/ru.m3u` |
 | 🇩🇪 Germany | 376 | 376 | `https://DuckKota.github.io/iptv/playlists/country/de.m3u` |
@@ -154,11 +154,11 @@ One playlist per country, best stream per channel.
 | 🇳🇴 Norway | 9 | 9 | `https://DuckKota.github.io/iptv/playlists/country/no.m3u` |
 | 🇳🇵 Nepal | 9 | 9 | `https://DuckKota.github.io/iptv/playlists/country/np.m3u` |
 | 🇹🇲 Turkmenistan | 8 | 8 | `https://DuckKota.github.io/iptv/playlists/country/tm.m3u` |
+| 🇹🇹 Trinidad and Tobago | 8 | 8 | `https://DuckKota.github.io/iptv/playlists/country/tt.m3u` |
 | 🇯🇲 Jamaica | 8 | 8 | `https://DuckKota.github.io/iptv/playlists/country/jm.m3u` |
 | 🇩🇿 Algeria | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/dz.m3u` |
 | 🇦🇿 Azerbaijan | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/az.m3u` |
 | 🇸🇴 Somalia | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/so.m3u` |
-| 🇹🇹 Trinidad and Tobago | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/tt.m3u` |
 | 🇷🇼 Rwanda | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/rw.m3u` |
 | 🇲🇴 Macao | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/mo.m3u` |
 | 🇹🇿 Tanzania | 7 | 7 | `https://DuckKota.github.io/iptv/playlists/country/tz.m3u` |
@@ -288,7 +288,7 @@ One playlist per broadcast language.
 | Turkish | 183 | 183 | `https://DuckKota.github.io/iptv/playlists/language/tur.m3u` |
 | Ukrainian | 180 | 180 | `https://DuckKota.github.io/iptv/playlists/language/ukr.m3u` |
 | Hungarian | 167 | 167 | `https://DuckKota.github.io/iptv/playlists/language/hun.m3u` |
-| Polish | 164 | 164 | `https://DuckKota.github.io/iptv/playlists/language/pol.m3u` |
+| Polish | 166 | 166 | `https://DuckKota.github.io/iptv/playlists/language/pol.m3u` |
 | Indonesian | 135 | 135 | `https://DuckKota.github.io/iptv/playlists/language/ind.m3u` |
 | Tamil | 123 | 123 | `https://DuckKota.github.io/iptv/playlists/language/tam.m3u` |
 | Danish | 119 | 119 | `https://DuckKota.github.io/iptv/playlists/language/dan.m3u` |
