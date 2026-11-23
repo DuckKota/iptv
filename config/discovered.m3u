@@ -77,6 +77,8 @@ https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth Hungary" group-title="Hungary" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC Earth Hungary
 http://88.212.15.17/live/bbce_hun/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth Hungary" group-title="Hungary" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC Earth Hungary
+http://88.212.7.14/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News Latin America" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC News Latin America
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News South Asia" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC News South Asia
@@ -153,6 +155,10 @@ http://89.44.231.73:7000/eurosport
 http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 Italy" group-title="Italy" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 1 Italy
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 Hungary" group-title="Hungary" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 1 Hungary
+http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 Germany" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 1 Germany
+http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 Germany" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 2 Germany
 http://46.244.99.71:8181/stream/74/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 UK" group-title="United Kingdom" nexus-source="iptv-org-index" nexus-confidence="0.98",Eurosport 2 UK
@@ -345,6 +351,8 @@ https://stream.smotrim.ru/hls2/russia1_plus7/playlist_5.m3u8
 https://stream.smotrim.ru/hls2/russia1_plus8/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1 +9" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1 +9
 https://stream.smotrim.ru/hls2/russia1_plus9/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-1
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Russia" nexus-source="iptv-org-index" nexus-confidence="0.98",Russia-K
 http://31.148.5.241/kanal_6/index.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra HD" group-title="Romania" nexus-source="iptv-org-index" nexus-confidence="0.98",Sport Extra HD
