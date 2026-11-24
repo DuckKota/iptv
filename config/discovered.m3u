@@ -75,6 +75,16 @@ https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochi
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America South" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",AXN Latin America South
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Telemundo WKAQ-TV" group-title="Puerto Rico" nexus-source="iptv-org-index" nexus-confidence="0.93",Telemundo WKAQ-TV
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Telemundo KNSD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.93",Telemundo KNSD
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Telemundo WCAU" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.93",Telemundo WCAU
+https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Telemundo East HD" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.93",Telemundo East HD
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Telemundo West" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.93",Telemundo West
+http://45.5.117.57:8900/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth Hungary" group-title="Hungary" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC Earth Hungary
 http://88.212.15.17/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth Hungary" group-title="Hungary" nexus-source="iptv-org-index" nexus-confidence="0.98",BBC Earth Hungary
@@ -247,6 +257,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="LaTele.ch" tvg-name="Teletica 7" group-title="Costa Rica" nexus-source="iptv-org-index" nexus-confidence="0.93",Teletica 7
+http://181.119.177.253:8000/play/a0da
 #EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" group-title="Peru" nexus-source="iptv-org-index" nexus-confidence="0.98",La Tremenda TV
 https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature Czechia" group-title="Czech Republic" nexus-source="iptv-org-index" nexus-confidence="0.98",Love Nature Czechia
@@ -447,5 +459,7 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u
 https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen Munster" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",WDR Fernsehen Munster
 https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WECN641.pr" tvg-name="WECN" group-title="Puerto Rico" nexus-source="iptv-org-index" nexus-confidence="0.95",WECN
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour Germany" group-title="Germany" nexus-source="iptv-org-index" nexus-confidence="0.98",World Poker Tour Germany
 https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
