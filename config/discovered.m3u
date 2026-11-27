@@ -57,6 +57,8 @@ https://amg00327-coxmediagroup-wsbbreaking-vizious-lg4u0.amagi.tv/playlist/amg00
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC WFTV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC WFTV
 https://amg00327-coxmediagroup-wftvbreakingnews-vizious-bfgi2.amagi.tv/ts-eu-w1-n2/playlist/amg00327-coxmediagroup-wftvbreakingnews-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC KXXV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",ABC KXXV
+https://amg01438-amg01438c28-vizio-us-10893.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera English HD" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Al Jazeera English HD
 http://stream.mcquack.net/131/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV Portuguese" group-title="Brazil" nexus-source="iptv-org-index" nexus-confidence="0.98",Angel TV Portuguese
@@ -75,6 +77,8 @@ https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV Hebrew" group-title="Israel" nexus-source="iptv-org-index" nexus-confidence="0.98",Angel TV Hebrew
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV FarEast" group-title="International" nexus-source="iptv-org-index" nexus-confidence="0.98",Angel TV FarEast
+https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America South" group-title="Argentina" nexus-source="iptv-org-index" nexus-confidence="0.98",AXN Latin America South
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Telemundo WKAQ-TV" group-title="Puerto Rico" nexus-source="iptv-org-index" nexus-confidence="0.93",Telemundo WKAQ-TV
@@ -253,6 +257,8 @@ https://amg00312-amg00312c34-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 https://amg00488-foxdigital-fox5dcwttg-vizious-c0eh0.amagi.tv/playlist/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WTXF-TV" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WTXF-TV
 https://amg00488-foxdigital-fox29philadelphiawtx-vizious-x0v1b.amagi.tv/playlist/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox (United States) WDRB" group-title="United States" nexus-source="iptv-org-index" nexus-confidence="0.98",Fox (United States) WDRB
+https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 Spanish" group-title="Spain" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24 Spanish
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="France" nexus-source="iptv-org-index" nexus-confidence="0.98",France 24
