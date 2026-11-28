@@ -1,9 +1,9 @@
 # Playlists
 
 > Generated automatically — do not edit by hand.
-> Last updated **2026-11-28 06:15 UTC**.
+> Last updated **2026-11-28 12:15 UTC**.
 
-10,558 channels with a working stream, out of 31,184 indexed. 13,947 streams responded on the last scan.
+10,558 channels with a working stream, out of 31,188 indexed. 13,947 streams responded on the last scan.
 
 ## Main playlists
 
@@ -281,7 +281,7 @@ One playlist per broadcast language.
 | Italian | 349 | 349 | `https://DuckKota.github.io/iptv/playlists/language/ita.m3u` |
 | Hindi | 340 | 340 | `https://DuckKota.github.io/iptv/playlists/language/hin.m3u` |
 | German | 323 | 323 | `https://DuckKota.github.io/iptv/playlists/language/deu.m3u` |
-| Romanian | 244 | 244 | `https://DuckKota.github.io/iptv/playlists/language/ron.m3u` |
+| Romanian | 243 | 243 | `https://DuckKota.github.io/iptv/playlists/language/ron.m3u` |
 | Chinese | 230 | 230 | `https://DuckKota.github.io/iptv/playlists/language/zho.m3u` |
 | Dutch | 205 | 205 | `https://DuckKota.github.io/iptv/playlists/language/nld.m3u` |
 | Persian | 205 | 205 | `https://DuckKota.github.io/iptv/playlists/language/fas.m3u` |
