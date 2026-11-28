@@ -79,3 +79,12 @@ sources:
   #   trust: 0.8
   #   country: TR
   #   exclude: "(?i)adult|xxx"
+
+  # --- oaatiq tv-playlist --------------------------------------------------
+  - id: oaatiq-tv-playlist
+    name: oaatiq tv-playlist
+    type: m3u
+    url: https://raw.githubusercontent.com/oaatiq/tv-playlist/main/playlist.m3u8
+    enabled: true
+    trust: 0.5
+    exclude: "(?i)adult|xxx"
